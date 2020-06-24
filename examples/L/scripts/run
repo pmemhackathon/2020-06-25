@@ -1,0 +1,1 @@
+java -ea -cp .:target/classes -Djava.library.path=target/cppbuild $*

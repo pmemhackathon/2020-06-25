@@ -1,0 +1,1 @@
+javac -cp ./:target/classes -d target/classes workshop/*.java src/examples/com/intel/pmem/llpl/examples/linkedlist/*.java src/examples/com/intel/pmem/llpl/examples/artree/*.java src/examples/com/intel/pmem/llpl/examples/handlearray/*.java src/examples/com/intel/pmem/llpl/examples/intarray/*.java

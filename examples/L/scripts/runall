@@ -1,0 +1,19 @@
+./scripts/cleanup
+./scripts/run workshop.Example01_GettingStarted
+./scripts/run workshop.Example01_GettingStarted
+./scripts/run workshop.Example02_SizingHeaps
+./scripts/run workshop.Example03_UsingOtherHeaps
+./scripts/run workshop.Example03_UsingOtherHeaps
+./scripts/run workshop.Example04_MoreOnTransactions
+./scripts/run workshop.Example05_PerformanceIdioms
+./scripts/run workshop.Example06_WrappingMemoryBlocks
+./scripts/run workshop.Example06_WrappingMemoryBlocks
+./scripts/run com.intel.pmem.llpl.examples.intarray.IntArrayExample
+./scripts/run com.intel.pmem.llpl.examples.intarray.IntArrayExample
+./scripts/run com.intel.pmem.llpl.examples.handlearray.HandleArrayExample
+./scripts/run com.intel.pmem.llpl.examples.handlearray.HandleArrayExample
+./scripts/run com.intel.pmem.llpl.examples.linkedlist.LinkedListExample
+./scripts/run com.intel.pmem.llpl.examples.linkedlist.LinkedListExample
+./scripts/run com.intel.pmem.llpl.examples.artree.ARTreeExample
+./scripts/run com.intel.pmem.llpl.examples.artree.ARTreeExample
+

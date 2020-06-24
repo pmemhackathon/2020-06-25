@@ -1,0 +1,6 @@
+$ df -h /pmem
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/pmem0      290G  872M  275G   1% /pmem
+
+$ mount | grep pmem
+/dev/pmem0 on /pmem type ext4 (rw,relatime,seclabel,dax)
